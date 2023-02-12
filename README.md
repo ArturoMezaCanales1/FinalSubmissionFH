@@ -2,6 +2,7 @@
 >Created by Rachel Anderson, Arturo Meza Canales, Tyler Morgan, and Izabella Valero
 
 This is a repository containing a game program formatted to run using Unity or the link provided:
+
 [https://play.unity.com/mg/other/webfrontera]
 
 ## Purpose:
