@@ -1,6 +1,7 @@
-# HACKATHONNNN
+# Safari Hunt
 
-This is a repository containing a game program formatted to run using Unity.
+This is a repository containing a game program formatted to run using Unity or the link provided:
+[https://play.unity.com/mg/other/webfrontera]
 
 ## Purpose:
 
